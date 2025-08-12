@@ -243,8 +243,8 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: c957098fb9d8ea4d0fb0bc36e9052c75fbfdce13
-      url: "https://github.com/Abdo73873/isar-4.0.0-dev.14.git"
+      resolved-ref: "23982643119580c2dbcca8e9ecec1be77edad0ac"
+      url: "https://github.com/abdelrahman0606/isar-4.0.0-dev.14.git"
     source: git
     version: "4.0.0-dev.14"
   js:

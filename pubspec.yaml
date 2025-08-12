@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   isar:
-    git: https://github.com/Abdo73873/isar-4.0.0-dev.14.git
+    git: https://github.com/abdelrahman0606/isar-4.0.0-dev.14.git
 
 flutter:
   plugin:
